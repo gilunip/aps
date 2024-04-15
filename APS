@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+<style type="text/css"> 
+
+#Sel1 {
+    background-color: rgb(179, 212, 128);
+    font-weight: bold;
+    text-align: center;
+    padding: 10px;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); 
+    text-align: justify;
+}
+
+#menu {
+    border: 15px;
+    padding: 50px;
+    margin: 20px;
+    text-align: center;
+    background-color: darkolivegreen;
+    color: white;
+    font-size: 18px; 
+    border-radius: 10px; 
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2)
+    text-align: justify;
+}
+
+#Sel2 {
+    background-color: rgb(229, 253, 173);
+    padding: 20px;
+    border-radius: 8px; 
+    
+    
+}
+
+    #picture 
+   img {float: right; margin: 0 0 10px 10px; }
+
+</style> 
+
+
+<title> Página inicial </title>
+</head>
+
+<body> 
+      
+     <h2 id="Sel1">
+        <h2 id="menu"
+        <br><a href="">Mata atlântica</a> &nbsp;&nbsp;&nbsp;&nbsp;<strong></strong> <a href="">Zoológico de São Paulo</a> &nbsp;&nbsp;&nbsp;&nbsp; <a href="">Zoo Safari</a> &nbsp;&nbsp;&nbsp;&nbsp; <a href="">Jardim Botânico</a><br><br>
+        
+</h2> 
+               <div id="picture">
+         <img src=“https://th.bing.com/th?id=OIP.4j00pBK4WiLIJrKmrVKb4gAAAA&w=298&h=204&c=12&rs=1&qlt=99&pcl=faf9f7&bgcl=fffffe&r=0&o=6&pid=MultiSMRSV2Source" width="150" height=“150">
+      </div>
+<br>        <p>Considerado um dos mais ricos biomas do planeta, ou seja, com maior biodiversidade, a Mata Atlântica é a segunda maior floresta em extensão do Brasil, constituída de planaltos e serras.
+
+Sua área abrange a costa leste, sudeste e sul do Brasil e, além disso, uma parte do Paraguai e da Argentina.
+
+Dentre os estados brasileiros, ela está presente em 17 deles: Alagoas, Bahia, Ceará, Goiás, Mato Grosso do Sul, Minas Gerais, Paraíba, Paraná, Pernambuco, Piauí, Sergipe, Rio Grande do Norte, Rio Grande do Sul, São Paulo, Espírito Santo, Rio de Janeiro e Santa Catarina.</p>
+<br>
+<br>      
+<br>
+<br>
+<br>
+<br>
+</h2>
+</body>
+</html>
+
+
+                      
